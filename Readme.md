@@ -6,7 +6,7 @@
 
 ## Installation
 
-To get up and running, checkout our documentation at [segment.com/plugins/wordpress](https://segment.com/plugins/wordpress)—installation takes less than five minutes!
+Deactivate any previous versions of this plugin. Zip this directory and upload the compressed file in the Wordpress Admin (Plugins > Add New > Upload Plugin). Activate the plugin, then add the Segment.io API Write Token in the plugin settings. Original plugin documentation can be found at [segment.com/plugins/wordpress](https://segment.com/plugins/wordpress)
 
 
 ## Debugging
